@@ -14,6 +14,6 @@ country: Name of the country
 # Questions
  - Provide exploratory data analysis(EDA). This include visualizations and gather insights from each visualization. Find this **[example](https://bibinmjose.github.io/dsgramner/ipython_md/analysis.html)**.
  - Afterwards create a distilled version of the EDA with most significant insights. Find the progression of earlier **[example](https://bibinmjose.github.io/dsgramner/)**.
- - Create a regression model which predicts the future prices with confidence interval. You may create new features based on the dataset as well as external sources (include source reference).
+ - Create a regression model which predicts future prices with a confidence band. You may create/add new features based on the dataset as well as external sources (include source reference).
  - Tune the model to achieve an [RMSE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) of <5.
  - Find the most important features from your model and substantiate them.
