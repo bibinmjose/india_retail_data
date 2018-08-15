@@ -1,8 +1,6 @@
 # Background
 The retail prices of key commodities are sourced from Open Government Data platform of India. The dataset contains retail prices for key commodities recorded at around 75 key market centres in India. The granularity of the data is at day level.
 
- - Make sure you use [scikit-learn](http://scikit-learn.org) for modelling.
-
 ## Data Dictionary
 ```
 date : Date the retail price was recorded
@@ -12,6 +10,12 @@ price_per_kg: Price per Kilogram
 region: The region of the country, the centre belongs to
 country: Name of the country
 ```
+# Recommended Libraries
+ - You may use [ipython notebooks](https://ipython.org/index.html) to share your work.
+ - For modelling: [scikit-learn](http://scikit-learn.org)
+ - For plotting: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+ - For EDA: [Pandas](https://pandas.pydata.org/)
+ - For computing: [Numpy](http://www.numpy.org/)
 
 # Questions to answer
  - Provide exploratory data analysis(EDA) of raw data. This should include visualizations and insights gathered from each visualization. Find this **[example](https://bibinmjose.github.io/dsgramner/ipython_md/analysis.html)**. Include correlation plots as well.
