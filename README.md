@@ -13,8 +13,8 @@ country: Name of the country
 # Recommended Libraries
  - You may use [ipython notebooks](https://ipython.org/index.html) to share your work.
  - For modelling: [scikit-learn](http://scikit-learn.org)
- - For EDA AND plotting: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Pandas](https://pandas.pydata.org/)
- - For computing: [Numpy](http://www.numpy.org/)
+ - For EDA and plotting: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Pandas](https://pandas.pydata.org/)
+ - For statistics and computing: [Numpy](http://www.numpy.org/), [Stats Model](https://www.statsmodels.org/stable/index.html)
 
 # Questions to answer
  - Provide exploratory data analysis(EDA) of raw data. This should include visualizations and insights gathered from each visualization. Find this **[example](https://bibinmjose.github.io/dsgramner/ipython_md/analysis.html)**. Include correlation plots as well.
