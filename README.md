@@ -22,4 +22,4 @@ country: Name of the country
  - Create a regression model which predicts future prices with a confidence band. You may create/add new features based on the dataset as well as external sources (include source reference). Make sure you split the data into train, validation and test while training.
  - Tune the model to achieve [MAPE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) of less than <10 on your test data.
  - Find the most important features from your model and substantiate. 
- - Finally, create a final visualization overlaying your predictions with raw data.
+ - Finally, create a visualization overlaying your predictions with raw data.
