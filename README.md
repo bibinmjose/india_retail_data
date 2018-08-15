@@ -12,6 +12,7 @@ country: Name of the country
 ```
 
 # Questions
+ - Use [scikit-learn](http://scikit-learn.org) library for modelling.
  - Provide exploratory data analysis(EDA). This include visualizations and gather insights from each visualization. Find this **[example](https://bibinmjose.github.io/dsgramner/ipython_md/analysis.html)**. Include correlation plots as well.
  - Afterwards create a distilled version of the EDA with most significant insights. Find the progression of earlier **[example](https://bibinmjose.github.io/dsgramner/)**.
  - Create a regression model which predicts future prices with a confidence band. You may create/add new features based on the dataset as well as external sources (include source reference).
