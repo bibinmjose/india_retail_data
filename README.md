@@ -21,6 +21,6 @@ country: Name of the country
  - Afterwards, create a distilled version of the EDA with most significant insights. Find the progression of our **[example](https://bibinmjose.github.io/dsgramner/)**.
  - Can you pose 4 questions based on your EDA and answer them using satistical tests?
  - Create a regression model which predicts future prices with a confidence band. You may create/add new features based on the dataset as well as external sources (include source reference). Make sure you split the data into train, validation and test while training.
- - Tune the model to achieve [MAPE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) of less than <10 on your test data.
+ - Tune the model to achieve [MAPE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) of less than <50 on your test data.
  - Find the most important features from your model and substantiate. 
  - Finally, create a visualization overlaying your predictions with raw data.
