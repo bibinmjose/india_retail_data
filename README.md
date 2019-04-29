@@ -20,8 +20,8 @@ country: Name of the country
 # Questions to answer
  - Provide exploratory data analysis(EDA) of raw data. This should include visualizations and insights gathered from each visualization. Find this **[example](https://bibinmjose.github.io/dsgramner/ipython_md/analysis.html)**. Include correlation plots as well.
  - Afterwards, create a distilled version of the EDA with most significant insights. Find the progression of our **[example](https://bibinmjose.github.io/dsgramner/)**.
- - Can you pose 4 questions based on your EDA and answer them using satistical tests?
+ - Can you pose 4 questions based on your EDA and answer them using statistical tests?
  - Create a regression model which predicts future prices with a confidence band. You may create/add new features based on the dataset as well as external sources (include source reference). Make sure you split the data into train, validation and test while training.
  - Tune the model to achieve [MAPE](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error) of less than <50 on your test data.
- - Find the most important features from your model and substantiate. 
+ - Find the most important features from your model and substantiate.
  - Finally, create a visualization overlaying your predictions with raw data.
