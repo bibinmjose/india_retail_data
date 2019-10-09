@@ -13,7 +13,7 @@ country: Name of the country
 ## Recommended libraries
 ##### You may use:
  - [Ipython notebooks](https://ipython.org/index.html) to share your work.
- - For modelling: [scikit-learn](http://scikit-learn.org)
+ - For modelling: [scikit-learn](http://scikit-learn.org), [tensorflow](https://www.tensorflow.org), [pytorch](https://pytorch.org)
  - For EDA and plotting: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Pandas](https://pandas.pydata.org/)
  - For statistics and computing: [Numpy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [Statsmodel](https://www.statsmodels.org/stable/index.html)
 
